@@ -1,0 +1,2 @@
+# DataMininWeek03Homework
+该项目关于对两个数据集的探索，可视化分析和数据清洗（填充缺失值）数据集为Trending YouTube Video Statistics和Wine Reviews，采用python实现目标
